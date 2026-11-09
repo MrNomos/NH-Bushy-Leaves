@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "supported_formats": {
+      "min_inclusive": 34,
+      "max_inclusive": 999
+    },
+    "min_format": 34,
+    "max_format": 999,
+    "description": "§cPut This Add-on §7On Top Of\n§cMain Resources Pack"
+  }
+}
