@@ -4,9 +4,18 @@
 # Compatible Resources Pack
 - Ashen
 - BareBones
-- 
-
+- ClassicFaithful32×
+- ClassicFaithful64×
+- Default
+- Faithful32×
+- Faithful64×
+- PrimeHD32×
+- ProgrammerArt
+- SapixCraft32×
+- SapixCraft16×
+- Whimscape
 # Credits
 - https://faithfulpack.net/
 - https://sapixcraft.com/
 - https://primemods.net/
+- Me>
