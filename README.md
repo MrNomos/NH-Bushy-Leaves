@@ -14,7 +14,8 @@
 - SapixCraft32×
 - SapixCraft16×
 - Whimscape
+
 # Credits
 - https://faithfulpack.net/
-- https://sapixcraft.com/
 - https://primemods.net/
+- https://sapixcraft.com/
