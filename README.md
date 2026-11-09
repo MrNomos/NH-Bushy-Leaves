@@ -14,3 +14,8 @@
 - SapixCraft 16×
 - SapixCraft 32×
 - PrimeHD 32×
+
+# Credits
+- https://faithfulpack.net/
+- https://sapixcraft.com/
+- https://primemods.net/
