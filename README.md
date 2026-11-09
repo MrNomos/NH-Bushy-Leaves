@@ -11,8 +11,8 @@
 - Faithful64×
 - PrimeHD32×
 - ProgrammerArt
-- SapixCraft32×
 - SapixCraft16×
+- SapixCraft32×
 - Whimscape
 
 # Credits
