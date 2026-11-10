@@ -9,6 +9,9 @@
 - Default
 - Faithful32×
 - Faithful64×
+- JICKLUS
+- MooseCraft
+- PixelPerfection
 - PrimeHD32×
 - ProgrammerArt
 - SapixCraft16×
